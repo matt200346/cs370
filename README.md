@@ -2,12 +2,15 @@
 cs370 portfolio
 
 ### Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
+Int his project I used deep Q-learning to create an AI that is able to navigate a maze. The maze has a goal at the end and during the training it is droped in a random place on the maze. THe AI will either explore or exploit during it's move. During the entire proces the AI is scored. The AI continues to train until it reaches a threashold and it is deemed good enough. My code is most of the method qtrain. There are some lines above that define variables and some code below that print out results. I have marked my code in the notebook with comments showing the start and end of my code.
 
 ## Connect your learning from throughout this course to the larger field of computer science:
 
 ### What do computer scientists do and why does it matter?
+Computer scientists mainly focus on software development and application. The field is vase and can range from theory to practical application of programming, logic, data manipulation, and algorithms. One branch of computer science focus on the study of data. A computer scientist may have a vast amount of data for them to manipulate or model. This is all important, because it helps run many of the systems that we use today. Today the amount of data that can be gathered is vast and impractical to be sorted, charted, and manipulated by hand. Computers are really good at performing a specific task really fast. It can perform computations much faster than a human can and with computer scientists telling the computer what to do they are able to sort through the data in ways that users, clients, and companies want.
 
 ### How do I approach a problem as a computer scientist?
+The first thing I do when I approach a problem is I try to break it down into smaller pieces. It can be overwhelming and hard to find a starting point when presented with a larger problem. Breaking down the problem into it's constituent parts make it easy to find solutions. Breaking down the problem in this way also makes it easier to figure out how to program a solution. methods and functions help guide the program and these methods and functions help solve specific problems. Larger than methods and functions are classes and objects, which help structure my solution and solve a collection of smaller problems. The structure is like a tree and each problem may have a host of smaller problems.
 
 ### What are my ethical responsibilities to the end user and the organization?
-
+Ethics should always be on my mind. In computer science we deal with a lot of data and there can be a lot of personal and private data within. I should never consider it someone elses job to maintain ethics. I should uphold my own ideals and ethical practices. If a company asks me to program something that I feel is unethical I should bring my concerns to them. If they refuse to see how it is unethical I may need to talk to someone else in the company about it. I need to maintain integrity and uphold my ethics for both the end user and the organization. I want to make sure that any data dealing with either the end user or orgnization is kept private and confidential.
